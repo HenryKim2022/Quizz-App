@@ -1,0 +1,12 @@
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\bin\Debug\Quiz App.exe.config
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\bin\Debug\Quiz App.exe
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\bin\Debug\Quiz App.pdb
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\bin\Debug\Quiz App.xml
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\obj\Debug\Quiz App.vbprojResolveAssemblyReference.cache
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\obj\Debug\Quiz_App.Form1.resources
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\obj\Debug\Quiz_App.Resources.resources
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\obj\Debug\Quiz App.vbproj.GenerateResource.Cache
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\obj\Debug\Quiz App.exe
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\obj\Debug\Quiz App.xml
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\obj\Debug\Quiz App.pdb
+e:\onedrive\documents\visual studio 2015\Projects\Quiz App\Quiz App\obj\Debug\Quiz_App.Form2.resources
